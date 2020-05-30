@@ -1,3 +1,7 @@
+it is a console application.
+
+
+
 PSEUDOCODE:
 Class main
 	In main function 
